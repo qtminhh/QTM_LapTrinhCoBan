@@ -2,7 +2,7 @@
 def sum_list(lst):
     return sum(lst)
 
-# 2. Multiply all items in a list
+# 2.Multiply all items in a list
 def multiply_list(lst):
     result = 1
     for i in lst:
